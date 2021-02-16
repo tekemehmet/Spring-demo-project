@@ -18,8 +18,8 @@ public class StudentConfig {
         return args->{
             Student mehmet = new Student(
                             "Mehmet",
-                            "tekemehmet@yahoo.com",
-                            LocalDate.of(1980, JANUARY, 9)
+                            "mehmet@yahoo.com",
+                            LocalDate.of(1985, JANUARY, 19)
 
             );
 
